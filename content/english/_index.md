@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Unleash your Hospitality Brilliance with Stay Tips <br /> Hospitality System"
+  title: "Unleash your Hospitality Brilliance with Stay Tips <br /> The all-in-one AI-powered personal concierge for short-term rentals."
   description: " Transform your short-term rental experience with AI, blockchain, and automation – designed for Italy’s €13B market."
   image:
     main: "/images/banner.png"
