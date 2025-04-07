@@ -25,9 +25,9 @@ how_it_works:
   title: "What Stay Tips offers"
   description: "Today’s hospitality, slowed by manual work, disconnected partners, and shaky trust, is redefined by Stay Tips with smart contracts for secure bookings without middlemen, AI automation for effortless 5-star stays, and a partner network where local providers compete to exceed expectations—say goodbye to complexity and hello to brilliance.
 
-Host App – Used by hosts to manage their experience.
-Guest App – Designed for guests to interact with the system effortlessly.
-Partner App – Tailored for partners to access relevant services."
+🏠 Host App: Streamlines operations, bookings, and automation
+🧳 Guest App: Offers personalized travel tips and in-stay assistance
+🤝 Partner App: Connects local businesses with travelers in real-time"
   features:
     - title: "Cross-Platform Compatibility:"
       description: "Available as both native and web-based apps, all communicating with the backend via API."
